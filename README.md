@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://tommyroldan.com"><img src="assets/banner.png" alt="Tommy Roldan — Web Developer and Creative, Miami FL. Websites, apps, e-commerce and AI agents, presented as a Mac desktop."></a>
+<a href="https://tommyroldan.com"><img src="assets/banner.jpg" alt="Tommy Roldan — Web Developer and Creative, Miami FL. Websites, apps, e-commerce and AI agents, presented as a Mac desktop."></a>
 
 <br>
 
