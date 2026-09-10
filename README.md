@@ -49,7 +49,7 @@ Real-time 3D configurator for vehicle wrap and paint shops. Customers orbit thei
 </tr>
 </table>
 
-Also around here: [Repo-Guard](https://github.com/TmasLove/Repo-Guard), [KOM Memorial](https://github.com/TmasLove/kom-memorial) and [Local Legend Predictor](https://github.com/TmasLove/local-legend-predictor) for the Strava-obsessed, and [Brick Breaker](https://tmaslove.github.io/Brick-/), the first thing I ever shipped in JavaScript, still playable.
+Also around here: [Repo-Guard](https://github.com/TmasLove/Repo-Guard), [KOM Memorial](https://github.com/TmasLove/kom-memorial) and [Local Legend Predictor](https://github.com/TmasLove/local-legend-predictor) for the Strava-obsessed, and [Brick Breaker](https://tmaslove.github.io/Brick-/), the first thing I ever shipped in JavaScript, still playable. Plus a ton more in private repos that soon enough may be public.
 
 ## Toolbox
 
